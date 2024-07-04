@@ -1,6 +1,7 @@
 # js-lab-31
 ### Lab31 Conditiona: Refractor1
 แปลง code ให้อยู่ในรูปแบบ switch case
+หริณ มาเบ้า มิก
 
 ```JavaScript
 let a = +prompt('a?');
